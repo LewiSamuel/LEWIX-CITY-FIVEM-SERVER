@@ -1,0 +1,43 @@
+
+================================================================
+======== txAdmin Starting - 01/03/2023 11:16:08                 
+================================================================
+[11:17:01] [LewiSamuel] created admins file
+
+================================================================
+======== txAdmin Starting - 01/03/2023 11:18:43                 
+================================================================
+[11:20:37] [LewiSamuel] logged in from 127.0.0.1 via citizenfx
+[11:20:59] [LewiSamuel] Changing global settings via setup stepper and started Deployer.
+[11:21:05] [LewiSamuel] Setting recipe.
+[11:27:06] [LewiSamuel] Running recipe.
+[11:27:55] [LewiSamuel] Configured server.cfg from deployer.
+[11:27:55] [LewiSamuel] Completed and committed server deploy.
+
+================================================================
+======== txAdmin Starting - 01/03/2023 11:36:10                 
+================================================================
+[11:36:53] [LewiSamuel] logged in from 127.0.0.1 via citizenfx
+[12:36:32] [LewiSamuel] Editing server CFG File.
+[12:36:40] [LewiSamuel] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 01/03/2023 12:55:01                 
+================================================================
+[12:56:13] [LewiSamuel] logged in from 127.0.0.1 via citizenfx
+[12:56:39] [LewiSamuel] START SERVER
+[13:00:12] [LewiSamuel] START SERVER
+[13:01:28] [LewiSamuel] Changing fxRunner settings.
+[13:01:36] [LewiSamuel] RESTART SERVER
+
+================================================================
+======== txAdmin Starting - 01/03/2023 13:10:33                 
+================================================================
+[13:11:39][LewiSamuel] logged in from 127.0.0.1 via citizenfx
+[13:23:09][LewiSamuel] logged in via in-game ui
+[13:26:41][LewiSamuel] logged in from via NUI iframe
+[13:27:09][LewiSamuel] Changing fxRunner settings.
+[13:27:27][LewiSamuel] executed "RESTART SERVER"
+[13:28:21][LewiSamuel] logged in via in-game ui
+[14:00:55][LewiSamuel] Changing global settings.
+[14:01:11][LewiSamuel] executed "RESTART SERVER"

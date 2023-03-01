@@ -1,0 +1,21 @@
+[
+  {
+    "name": "LewiSamuel",
+    "master": true,
+    "password_hash": "$2a$11$NDOrmpFs6a3mrcMNk3C2l.8bLqveQGyNC2H81u469QamNzRfFf21W",
+    "providers": {
+      "citizenfx": {
+        "id": "LewiSamuel",
+        "identifier": "fivem:5833670",
+        "data": {
+          "sub": "bf9948d390a4dfa9f237814b78800ea6",
+          "nameid": "https://forum.cfx.re/internal/user/5833670",
+          "name": "LewiSamuel",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/lewisamuel/256/2253930_2.png",
+          "profile": "https://forum.cfx.re/u/LewiSamuel"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
